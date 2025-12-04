@@ -8,7 +8,7 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to view the site]()  
+👉 [Click here to view the site](https://pallab-chakraborty.github.io/Srija_Birthday/)  
 
 ---
 
@@ -28,7 +28,8 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ---
 
 ## 🎉 How to Use  
-1. Clone the repo:  
+1. Clone the repo:  https://pallab-chakraborty.github.io/Srija_Birthday/
    ```bash
   
+
 
